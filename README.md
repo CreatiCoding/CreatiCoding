@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on teampetfriends
 
+- 💻 I’m coding on https://www.pet-friends.co.kr
+
 - 😄 I’m sometimes writing on https://blog.fedev.kr/document/list
 
 <!--

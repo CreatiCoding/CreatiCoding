@@ -10,7 +10,7 @@
 
 - 🏅 My skill is on https://www.creco-home.site/resume.html
 
-![creaticoding's github stats](https://github-readme-stats.vercel.app/api?username=creaticoding&show_icons=true&theme=merko&count_private=true)
+![creaticoding's github stats](https://github-readme-stats.vercel.app/api?username=creaticoding&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creaticoding)
 

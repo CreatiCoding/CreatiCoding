@@ -1,16 +1,16 @@
 ### 안녕하세요 👋
 
-- 🔭 I’m currently working on teampetfriends
+- 🔭 현재 펫프렌즈 가치개발팀에서 서비스파트 프론트엔드 담당하여 일하고 있습니다.
 
-- 💻 I’m coding on https://www.pet-friends.co.kr
+- 💻 웹사이트 https://www.pet-friends.co.kr 를 유지보수 및 신규서비스 개발하고 있습니다.
 
-- 😄 I’m sometimes writing on https://blog.fedev.kr/document/list
+- 😄 가끔 https://blog.fedev.kr/document/list 에 글을 쓰고 있습니다.
 
-- 🥤 You can support for me on https://www.buymeacoffee.com/creaticoding
+- 🏅 제 스킬은 https://www.creco-home.site/skill.html 여기에 있습니다!
 
-- 🏅 My skill is on https://www.creco-home.site/resume.html
+- ✍️ 요즘 매일매일 https://github.com/CreatiCoding/DailyLeetCodeJS 에서 LeetCode를 풀고 있습니다.
 
-- ✍️ I solving leetcode's algorythms on https://github.com/CreatiCoding/DailyLeetCodeJS
+- 🥤 커피 한잔의 여유는 https://www.buymeacoffee.com/creaticoding 여기로!
 
 ![creaticoding's github stats](https://github-readme-stats.vercel.app/api?username=creaticoding&count_private=true)
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 - 🔭 I’m currently working on teampetfriends
 
@@ -9,6 +9,8 @@
 - 🥤 You can support for me on https://www.buymeacoffee.com/creaticoding
 
 - 🏅 My skill is on https://www.creco-home.site/resume.html
+
+- ✍️ I solving leetcode's algorythms on https://github.com/CreatiCoding/DailyLeetCodeJS
 
 ![creaticoding's github stats](https://github-readme-stats.vercel.app/api?username=creaticoding&count_private=true)
 

@@ -6,7 +6,7 @@
 
 - 😄 가끔 https://blog.fedev.kr/document/list 에 글을 쓰고 있습니다.
 
-- 🏅 제 스킬은 https://www.creco-home.site/skill.html 여기에 있습니다!
+- 🏅 제 스킬은 https://www.creco-home.site/skill/ 여기에 있습니다!
 
 - ✍️ 요즘 매일매일 https://github.com/CreatiCoding/DailyLeetCodeJS 에서 LeetCode를 풀고 있습니다.
 

@@ -1,9 +1,9 @@
-name: main-deploy
+name: master-deploy
 
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -17,9 +17,9 @@ jobs:
         uses: actions/cache@v1
         with:
           path: node_modules
-          key: ${{ runner.OS }}-main-build-${{ hashFiles('**/yarn.lock') }}
+          key: ${{ runner.OS }}-master-build-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
-            ${{ runner.OS }}-main-build-
+            ${{ runner.OS }}-master-build-
             ${{ runner.OS }}-build-
             ${{ runner.OS }}-
 

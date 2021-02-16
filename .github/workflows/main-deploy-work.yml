@@ -33,4 +33,5 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
         run: |
+          rm -rf .git
           aws s3 sync . s3://data.creco.today/CreatiCoding --acl public-read

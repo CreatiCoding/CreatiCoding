@@ -8,7 +8,7 @@
 
 - 🏅 제 스킬은 [skill](https://www.creco-home.site/skill) 여기에 있습니다!
 
-- ✍️ 요즘 매일매일 [DailyLeetCodeJS](https://github.com/CreatiCoding/DailyLeetCodeJS) 에서 LeetCode를 풀고 있습니다.
+- ✍️ 요즘 매일매일 https://www.creco-home.site/DailyLeetCodeJS 에서 LeetCode를 풀고 있습니다.
 
 - 🥤 커피 한잔의 여유는... [![](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=creaticoding&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/creaticoding)
 

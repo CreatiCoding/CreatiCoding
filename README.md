@@ -14,7 +14,7 @@
 
 ![creaticoding's github stats](https://github-readme-stats.vercel.app/api?username=creaticoding&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creaticoding&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creaticoding&hide=html,java,c%2B%2B&langs_count=12)
 
 - [깃 브랜치 관리](https://www.creco-home.site/git-branch-management-strategy)
 

@@ -35,3 +35,4 @@ jobs:
         run: |
           rm -rf .git
           aws s3 sync . s3://data.creco.today/CreatiCoding --acl public-read
+          aws cloudfront create-invalidation --distribution-id E1UA77V5KRISB --paths "/CreatiCoding/*"

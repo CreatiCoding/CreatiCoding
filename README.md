@@ -4,7 +4,7 @@
 
 - 💻 웹사이트 https://www.pet-friends.co.kr 를 유지보수 및 신규서비스 개발하고 있습니다.
 
-- 😄 가끔 [blogging](https://blog.fedev.kr/document/list) 에 글을 쓰고 있습니다.
+- 😄 가끔 [blogging](https://creco.today/blog) 에 글을 쓰고 있습니다.
 
 - 🏅 제 스킬은 [skill](https://www.creco-home.site/skill) 여기에 있습니다!
 

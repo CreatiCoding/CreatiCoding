@@ -40,3 +40,12 @@ jobs:
           rm -rf .git
           aws s3 sync . s3://data.creco.today/CreatiCoding --acl public-read
           aws cloudfront create-invalidation --distribution-id E1UA77V5KRISB --paths "/CreatiCoding/*"
+
+      - name: alert to Slack
+        uses: 8398a7/action-slack@v3
+        with:
+          status: ${{ job.status }}
+          fields: repo,message,commit,author,action,eventName,ref,workflow,job,took # selectable (default: repo,message)
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }} # required
+        if: always() # Pick up events even if the job fails or is canceled.

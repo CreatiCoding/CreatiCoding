@@ -6,7 +6,7 @@
 
 - 😄 가끔 [블로그](https://creco.today/blog) 에 글을 쓰고 있습니다.
 
-- 🏅 제 스킬은 [skill](https://creco.today/about/skill`) 여기에 있습니다!
+- 🏅 제 스킬은 [skill](https://creco.today/about/skill) 여기에 있습니다!
 
 - ✍️ 요즘 매일매일 [알고리즘 로깅](https://creco.today/leetcode) 에서 LeetCode를 풀고 있습니다.
 

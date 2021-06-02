@@ -1,8 +1,6 @@
 # 안녕하세요 👋 Creco 입니당
 
-- 🔭 ~~현재 펫프렌즈 가치개발팀에서 서비스파트 FrontEnd 담당하여 일하고 있습니다.~~
-
-- 💻 ~~웹사이트 https://www.pet-friends.co.kr 를 유지보수 및 신규서비스 개발하고 있습니다.~~
+- 🧑‍💻 현재 Toss Core `Client Platform`에서 열심히 온보딩 중입니다.
 
 - 😄 쓸만한 글이 생각나면 [블로그](https://creco.today/blog) 에 글을 쓰고 있습니다.
 

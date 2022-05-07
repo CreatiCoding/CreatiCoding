@@ -1,6 +1,6 @@
 # 안녕하세요 👋 Creco 입니당
 
-- 🧑‍💻 현재 Toss Core `Client Platform`에서 열심히 온보딩 중입니다.
+- 🧑‍💻 Toss Core에서 FE 개발자의 생산성을 높이기 위해 열심히 고민하고 있습니다.
 
 - 😄 쓸만한 글이 생각나면 [블로그](https://creco.today/blog) 에 글을 쓰고 있습니다.
 

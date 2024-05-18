@@ -1,5 +1,7 @@
 # Hi, there
 
+블로그: https://blog.creco.dev/post
+
 <!--
 # 안녕하세요 👋 Creco 입니당
 

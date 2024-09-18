@@ -4,8 +4,6 @@
 
 링크드인: https://www.linkedin.com/in/seokho-jeong-8815b7157
 
-커피챗: https://blog.creco.dev/coffee-chat
-
 <!--
 # 안녕하세요 👋 Creco 입니당
 

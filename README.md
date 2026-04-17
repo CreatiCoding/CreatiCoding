@@ -5,6 +5,7 @@
 링크드인: https://www.linkedin.com/in/seokho-jeong-8815b7157
 
 
+<!-- 
 ### 기술 블로그
 <table>
   <tr>
@@ -32,4 +33,4 @@
     </td>
   </tr>
 </table>
-
+-->
